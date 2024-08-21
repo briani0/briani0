@@ -3,7 +3,7 @@
 - 👀 I’m interested in hardware, software, and semiconductor engineering.
 - 🌱 I’m learning new programming languages and improving my fluency in others.
 - 🧠 I'm also learning the fundamentals of nanotechnology, with an interest in its applications in the electrical engineering domain
-- 👨‍💻Proficient in Java, Python and currently learning JavaScript and C/C++
+- 👨‍💻Proficient in Java, Python and currently learning C/C++
 - I'm slowly going to build this out with some new projects because I don't like the idea of adding old stuff since they seem somewhat basic compared to what's currently out there
 
 <!---
